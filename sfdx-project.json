@@ -1,26 +1,24 @@
 {
-    "packageDirectories": [
-        {
-            "path": "srikanthModule",
-            "default": true,
-            "package": "srikanthModule",
-            "versionName": "srikanthModule",
-            "versionNumber": "1.0.0.0"
-        },
-        {
-            "path": "srikanthModule",
-            "package": "srikanthpackage",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        }
-    ],
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "48.0",
-    "packageAliases": {
-        "srikanthModule": "0Ho2x000000TN7ICAW",
-        "srikanthModule@1.0.0.0": "04t2x0000012nItAAI",
-        "srikanthpackage": "0Ho2x000000TN7NCAW"
-    }
+  "packageDirectories" : [ {
+    "path" : "srikanthModule",
+    "default" : true,
+    "package" : "srikanthModule",
+    "versionName" : "srikanthModule",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "srikanthModule",
+    "default" : false,
+    "package" : "srikanthpackage",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "48.0",
+  "packageAliases" : {
+    "srikanthModule" : "0Ho2x000000TN7ICAW",
+    "srikanthModule@1.0.0.0" : "04t2x0000012nItAAI",
+    "srikanthpackage" : "0Ho2x000000TN7NCAW",
+    "srikanthpackage@1.0.1.0" : "04t2x0000012nN6AAI"
+  }
 }
