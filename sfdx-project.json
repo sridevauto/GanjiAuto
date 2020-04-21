@@ -1,0 +1,16 @@
+{
+  "packageDirectories" : [ {
+    "path" : "srikanthModule",
+    "default" : true,
+    "package" : "srikanthModule",
+    "versionName" : "srikanthModule",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "48.0",
+  "packageAliases" : {
+    "srikanthModule" : "0Ho2x000000TN7ICAW",
+    "srikanthModule@1.0.0.0" : "04t2x0000012nItAAI"
+  }
+}
